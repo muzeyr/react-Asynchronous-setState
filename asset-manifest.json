@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-Asynchronous-setState/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react-Asynchronous-setState/static/js/main.6494fd21.chunk.js",
+    "main.js.map": "/react-Asynchronous-setState/static/js/main.6494fd21.chunk.js.map",
+    "runtime-main.js": "/react-Asynchronous-setState/static/js/runtime-main.1af9964c.js",
+    "runtime-main.js.map": "/react-Asynchronous-setState/static/js/runtime-main.1af9964c.js.map",
+    "static/js/2.6b284cc7.chunk.js": "/react-Asynchronous-setState/static/js/2.6b284cc7.chunk.js",
+    "static/js/2.6b284cc7.chunk.js.map": "/react-Asynchronous-setState/static/js/2.6b284cc7.chunk.js.map",
+    "index.html": "/react-Asynchronous-setState/index.html",
+    "precache-manifest.82c0328b20299f715cae635581d0ed67.js": "/react-Asynchronous-setState/precache-manifest.82c0328b20299f715cae635581d0ed67.js",
+    "service-worker.js": "/react-Asynchronous-setState/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react-Asynchronous-setState/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.6b284cc7.chunk.js.LICENSE.txt": "/react-Asynchronous-setState/static/js/2.6b284cc7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-Asynchronous-setState/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1af9964c.js",
+    "static/js/2.6b284cc7.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6494fd21.chunk.js"
+  ]
+}
